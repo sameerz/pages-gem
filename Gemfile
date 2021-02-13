@@ -6,6 +6,7 @@ gemspec
 
 # Whitelisted plugins not included in runtime dependencies.
 gem "jekyll-octicons"
+gem "just-the-docs"
 
 group :test do
   gem "rubocop", "~> 0.79"
